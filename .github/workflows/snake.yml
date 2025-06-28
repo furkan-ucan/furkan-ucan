@@ -1,21 +1,17 @@
 name: Generate Contribution Snake
-
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
-
-      - name: Generate snake animation
-        uses: platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -23,11 +19,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      # YENİ VE KRİTİK ADIM: OLUŞTURULAN DOSYALARI DEPOYA KAYDETME
-      - name: Push dist to main
-        uses: ad-m/github-push-action@master
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          branch: main
-          directory: dist
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: main
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

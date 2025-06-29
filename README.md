@@ -3,38 +3,52 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250§ion=header&text=Furkan%20Uçan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header Banner"/>
 </p>
 
-<!-- SOSYAL MEDYA VE İLETİŞİM -->
-<div align="center">
-  <a href="https://linkedin.com/in/furkan-ucan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:furkan.ucann@yandex.com">
-    <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Mail"/>
-  </a>
-  <a href="https://github.com/furkan-ucan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+<!-- YENİ İKİ SÜTUNLU YAPI BAŞLANGICI -->
+<table width="100%" border="0">
+  <tr>
+    <!-- SOL SÜTUN: HAKKIMDA VE İLETİŞİM -->
+    <td width="50%" valign="top">
+      <h2 align="center">👋 Hakkımda</h2>
+      <p align="center">
+        Merhaba! Ben Furkan Uçan, bir <b>Yönetim Bilişim Sistemleri (YBS)</b> öğrencisiyim ve teknolojiye, özellikle de <b>yazılım geliştirme</b> ve <b>veri bilimi</b> alanlarına büyük bir tutku duyuyorum. Üniversite eğitimim boyunca öğrendiğim teorik bilgileri, Flutter, Python ve NestJS gibi modern teknolojilerle birleştirerek gerçek dünya problemlerine yenilikçi çözümler üretiyorum. Proje yönetimi için <b>Agile/Scrum</b> metodolojilerini benimsiyor, YBS'nin analitik gücünü kullanarak yenilikçi ve verimli çözümlerin bir parçası olmayı hedefliyorum.
+      </p>
+      <!-- Sosyal Medya İkonları -->
+      <p align="center">
+        <a href="https://linkedin.com/in/furkan-ucan" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="mailto:furkan.ucann@yandex.com">
+          <img src="https://img.shields.io/badge/Yandex-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Mail"/>
+        </a>
+        <a href="https://github.com/furkan-ucan" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </p>
+    </td>
+    <!-- SAĞ SÜTUN: GITHUB İSTATİSTİKLERİ -->
+    <td width="50%" valign="top">
+      <h2 align="center">📊 GitHub İstatistiklerim</h2>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=furkan-ucan&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="Furkan Uçan's GitHub Stats"/>
+        <br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-ucan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-ucan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      </p>
+    </td>
+  </tr>
+</table>
+<!-- İKİ SÜTUNLU YAPI BİTİŞİ -->
 
 ---
 
-<!-- HAKKIMDA -->
-<h2 align="center">👋 Hakkımda</h2>
+<!-- GITHUB KUPALARI (TROPHIES) -->
+<h2 align="center">🏆 GitHub Kupalarım</h2>
 <p align="center">
-  Merhaba! Ben Furkan Uçan, bir <b>Yönetim Bilişim Sistemleri (YBS)</b> öğrencisiyim ve teknolojiye, özellikle de <b>yazılım geliştirme</b> ve <b>veri bilimi</b> alanlarına büyük bir tutku duyuyorum. Üniversite eğitimim boyunca öğrendiğim teorik bilgileri, Flutter, Python ve NestJS gibi modern teknolojilerle birleştirerek gerçek dünya problemlerine yenilikçi çözümler üretiyorum. Proje yönetimi için <b>Agile/Scrum</b> metodolojilerini benimsiyor, YBS'nin analitik gücünü kullanarak yenilikçi ve verimli çözümlerin bir parçası olmayı hedefliyorum.
+  <img src="https://github-profile-trophy.vercel.app/?username=furkan-ucan&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
-
-<!-- GITHUB İSTATİSTİKLERİ -->
-<h2 align="center">📊 GitHub İstatistiklerim</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan-ucan&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" alt="Furkan Uçan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-ucan&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-ucan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
 
 <!-- GITHUB YILAN ANİMASYONU -->
 <h2 align="center">🐍 GitHub Katkı Yılanım</h2>
@@ -64,14 +78,6 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-    </p>
-    <p>
-      <strong>Veritabanları ve Diğer Araçlar:</strong><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     </p>
   </details>
 </div>

@@ -1,4 +1,5 @@
 name: Generate Contribution Snake
+
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -8,10 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write # Action'a yazma izni verir
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+
+      - name: Generate snake animation
+        uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -19,7 +22,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v5
+
+      - name: Commit and push snake animation
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "build: generate contribution snake"
           branch: main

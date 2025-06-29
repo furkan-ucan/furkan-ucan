@@ -1,13 +1,14 @@
-<!-- YENİ: Pixel art, dark temalı karşılama GIF'i -->
+<!-- ✨ ÇİZGİ-FİLM SELAMLAMA BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/consumin/consumin/main/assets/coding.gif" width="400px" />
-</p>
-<h1 align="center">Merhaba, ben Furkan!</h1>
-<p align="center">
-  Yönetim Bilişim Sistemleri öğrencisiyim ve teknolojiyle harika şeyler yapmaya bayılıyorum! 🚀
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80" />
 </p>
 
-<!-- SOSYAL MEDYA İKONLARI -->
+<h1 align="center">Heyo, I'm Furkan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
+<p align="center">
+  MIS junior • Full-stack & Data nerd • I craft neat things with code! 🚀
+</p>
+
+<!-- SOCIALS -->
 <p align="center">
   <a href="https://linkedin.com/in/furkan-ucan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,37 +23,32 @@
 
 ---
 
-<!-- TEKNİK BECERİLER (Dark Tema Uyumlu) -->
-<h2 align="center">🎒 Alet Çantamdaki Teknolojiler</h2>
+## 🎒 My Tech Toolbox
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- ?theme=dark parametresi ikonları koyu temaya uyumlu hale getirir -->
-    <img src="https://skillicons.dev/icons?i=python,flutter,js,ts,react,nestjs,firebase,docker,git,postgres,mongodb&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,react,flutter,nestjs,firebase,docker,git,postgres,mongodb,linux&theme=dark" />
   </a>
 </p>
 
 ---
 
-<!-- YENİ TEMA: SYNTHWAVE (Neon Dark Mode) -->
-<h2 align="center">📊 GitHub İstatistiklerim</h2>
+## 📊 GitHub Stats
 <div align="center">
-  <!-- Bu tema, istediğiniz neon/parlak etkiyi verir -->
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan-ucan&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-ucan&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
+  <!-- Catppuccin Mocha theme for dark vibes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=furkan-ucan&show_icons=true&theme=catppuccin_mocha&rank_icon=github&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-ucan&theme=catppuccin_mocha&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-<!-- GITHUB YILAN ANİMASYONU (Dark Tema) -->
-<h2 align="center">🐍 Katkı Yılanım</h2>
+## 🐍 Contribution Snake
 <p align="center">
-  <!-- Bu versiyon koyu temalar için daha uygundur -->
-  <img src="https://raw.githubusercontent.com/furkan-ucan/furkan-ucan/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Katkı Yılan Animasyonu" />
+  <!-- YOL DÜZELTİLDİ: 'output' -> 'main/dist' -->
+  <img src="https://raw.githubusercontent.com/furkan-ucan/furkan-ucan/main/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-<!-- FOOTER OLARAK KULLANILAN BASİT BİR AYRAÇ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Anime.gif" width="200" />
 </p>

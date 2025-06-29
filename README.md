@@ -1,6 +1,6 @@
-<!-- YENİ: Çizgi film temalı karşılama GIF'i -->
+<!-- YENİ: Pixel art, dark temalı karşılama GIF'i -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" />
+  <img src="https://raw.githubusercontent.com/consumin/consumin/main/assets/coding.gif" width="400px" />
 </p>
 <h1 align="center">Merhaba, ben Furkan!</h1>
 <p align="center">
@@ -22,35 +22,37 @@
 
 ---
 
-<!-- YENİ: İKON TABANLI TEKNİK BECERİLER -->
+<!-- TEKNİK BECERİLER (Dark Tema Uyumlu) -->
 <h2 align="center">🎒 Alet Çantamdaki Teknolojiler</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flutter,js,ts,react,nestjs,firebase,docker,git,postgres,mongodb" />
+    <!-- ?theme=dark parametresi ikonları koyu temaya uyumlu hale getirir -->
+    <img src="https://skillicons.dev/icons?i=python,flutter,js,ts,react,nestjs,firebase,docker,git,postgres,mongodb&theme=dark" />
   </a>
 </p>
 
 ---
 
-<!-- YENİ: YUMUŞAK TEMALI İSTATİSTİKLER -->
+<!-- YENİ TEMA: SYNTHWAVE (Neon Dark Mode) -->
 <h2 align="center">📊 GitHub İstatistiklerim</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan-ucan&show_icons=true&theme=catppuccin_latte&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-ucan&theme=catppuccin_latte&hide_border=true" alt="GitHub Streak"/>
+  <!-- Bu tema, istediğiniz neon/parlak etkiyi verir -->
+  <img src="https://github-readme-stats.vercel.app/api?username=furkan-ucan&show_icons=true&theme=synthwave&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkan-ucan&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
-<!-- YENİ: RENKLERİ UYUMLU YILAN ANİMASYONU -->
+<!-- GITHUB YILAN ANİMASYONU (Dark Tema) -->
 <h2 align="center">🐍 Katkı Yılanım</h2>
 <p align="center">
-  <!-- Yılanın renklerini Catppuccin temasına uyacak şekilde özelleştirdik -->
-  <img src="https://raw.githubusercontent.com/furkan-ucan/furkan-ucan/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Katkı Yılan Animasyonu" />
+  <!-- Bu versiyon koyu temalar için daha uygundur -->
+  <img src="https://raw.githubusercontent.com/furkan-ucan/furkan-ucan/main/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Katkı Yılan Animasyonu" />
 </p>
 
 ---
 
 <!-- FOOTER OLARAK KULLANILAN BASİT BİR AYRAÇ -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Anime.gif" width="200px" />
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/footer.gif" width="100%" />
 </p>

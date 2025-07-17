@@ -17,16 +17,16 @@
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=INITIALIZING+UCAN-DOS+v2.0...;BIOS+CHECK%3A+OK;MEMORY+TEST%3A+64KB+OK;LOADING+KERNEL...;MOUNTING+%2Fdev%2Fideas...;SCANNING+FOR+BUSINESS+LOGIC...;COMPILING+CREATIVE+SOLUTIONS...;READY.;Welcome%2C+user.+Type+'help'+for+commands.;Current+user%3A+FURKAN_UCAN;System+architecture%3A+Business+%26+Technology+Hybrid;Uptime%3A+22+years+and+counting..." alt="Terminal Boot Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=INITIALIZING+UCAN-DOS+v2.1...;BIOS+CHECK%3A+OK;MEMORY+TEST%3A+64KB+OK;LOADING+KERNEL...;MOUNTING+%2Fdev%2Fideas...;SCANNING+FOR+BUSINESS+LOGIC...;COMPILING+CREATIVE+SOLUTIONS...;READY.;Welcome%2C+user.+Type+'help'+for+commands.;Current+user%3A+FURKAN_UCAN;System+architecture%3A+Business+%26+Technology+Hybrid;Uptime%3A+22+years+and+counting..." alt="Terminal Boot Animation" />
 </p>
 
 ---
 
 <details>
   <summary><font color="#39FF14">C:\></font> whoami.exe</summary>
-  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E0E0E0&center=true&vCenter=true&width=700&lines=User%3A+Furkan+Ucan;Title%3A+Business+%26+Technology+Architect+%7C+MIS+Graduate;Location%3A+Izmir%2C+Turkey;Education%3A+Management+Information+Systems+(DEU)+%7C+GIS+(AU);Primary+Function%3A+Transforming+complex+business+processes;into+technology-driven+efficient+solutions;Philosophy%3A+A+line+of+code+is+not+just+a+command...;it's+a+solution+to+a+human+problem.;My+OS+specializes+in+debugging+business+processes%2C;compiling+ideas+into+value%2C;and+executing+strategies+with+clean%2C+scalable+systems.;Languages%3A+Turkish+(Native)%2C+English+(B1)" alt="whoami Output Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E0E0E0&center=true&vCenter=true&width=700&lines=User%3A+Furkan+Ucan;Title%3A+Business+%26+Technology+Architect+%7C+MIS+Graduate;Location%3A+Izmir%2C+Turkey;Education%3A+Management+Information+Systems+(DEU)+%7C+GIS+(AU);Primary+Function%3A+Transforming+complex+business+processes;into+technology-driven+efficient+solutions;Philosophy%3A+A+line+of+code+is+not+just+a+command...;it's+a+solution+to+a+<a href='./README.philosophicus' target='_blank'>human+problem</a>.;My+OS+specializes+in+debugging+business+processes%2C;compiling+ideas+into+value%2C;and+executing+strategies+with+clean%2C+scalable+systems.;Languages%3A+Turkish+(Native)%2C+English+(B1)" alt="whoami Output Animation" />
 </p>
 
 <pre>
@@ -38,8 +38,35 @@
 ---
 
 <details>
+  <summary><font color="#39FF14">C:\></font> help.exe</summary>
+
+  <pre>
+<font color="#39FF14">UCAN-DOS v2.1 - HELP MANUAL</font>
+
+This is not just a profile; it's an interactive terminal experience
+reflecting a core philosophy:
+
+<font color="#39FF14">1. Business-First Approach:</font> Every project (`log.view`) starts
+   with a business `CHALLENGE`, because technology is a tool
+   to solve real-world problems.
+
+<font color="#39FF14">2. Interactive Discovery:</font> Use the commands (`whoami`, `dir`, `log.view`)
+   to explore the system's capabilities at your own pace.
+   This architecture respects your time and curiosity.
+
+<font color="#39FF14">3. Hidden Protocols:</font> This system, like any complex architecture,
+   may contain undocumented features for curious minds.
+   
+<font color="#E0E0E0">"The goal is not to list skills, but to demonstrate a mindset."</font>
+  </pre>
+
+</details>
+
+---
+
+<details>
   <summary><font color="#39FF14">C:\></font> dir /skills</summary>
-  
+
   <pre>
 <font color="#39FF14">BUSINESS_INTELLIGENCE/</font>
   ├── business_process_analysis.dll
@@ -98,14 +125,14 @@
   ├── iot_systems.device
   └── sensor_integration.hw
   </pre>
-  
+
 </details>
 
 ---
 
 <details open>
   <summary><font color="#39FF14">C:\></font> log.view /projects --level=impactful</summary>
-  
+
   <pre>
 <font color="#39FF14">> LOG_ENTRY: [SMART CAREER ASSISTANT - AI PROJECT]</font>
 <font color="#39FF14">> TIMESTAMP:</font> 2025
@@ -170,14 +197,14 @@
 <font color="#39FF14">> STACK_TRACE:</font> Python, OpenCV, Flask, SQLite, Raspberry Pi, IoT Sensors
 ----------------------------------------------------
   </pre>
-  
+
 </details>
 
 ---
 
 <details>
   <summary><font color="#39FF14">C:\></font> net.connect</summary>
-  
+
 <p><font color="#39FF14">> Establishing connection to professional network...</font></p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkan-ucan)
@@ -192,7 +219,7 @@
 
 <p><font color="#39FF14">> Displaying contact coordinates...</font></p>
 
-📍 **Location**: Izmir, Turkey  
+📍 **Location**: Izmir, Turkey
 📞 **Phone**: +90 551 958 74 55
 
 </details>
@@ -201,7 +228,7 @@
 
 <details>
   <summary><font color="#39FF14">C:\></font> cert.list --verified</summary>
-  
+
   <pre>
 <font color="#39FF14">CYBERSECURITY_CERTIFICATIONS/</font>
   ├── cyber_threat_intelligence_BTK.cert        [2023]
@@ -214,7 +241,34 @@
   ├── management_information_systems_DEU.degree [2025]
   └── geographic_information_systems_AU.degree  [2024]
   </pre>
-  
+
+</details>
+
+---
+
+<details>
+  <summary><font color="#39FF14">C:\></font> cat /users/Furkan/personal.log</summary>
+
+  <pre>
+<font color="#39FF14">> LOG_ENTRY: [RUNNING MARATHONS]</font>
+<font color="#39FF14">> CATEGORY:</font> Personal Development
+<font color="#39FF14">> SYSTEM_IMPLICATION:</font> Cultivates end-to-end discipline, long-term
+                      perseverance, and resilience under pressure.
+----------------------------------------------------
+
+<font color="#39FF14">> LOG_ENTRY: [PLAYING CHESS]</font>
+<font color="#39FF14">> CATEGORY:</font> Cognitive Training
+<font color="#39FF14">> SYSTEM_IMPLICATION:</font> Enhances strategic thinking, foresight,
+                      and the ability to anticipate multiple moves ahead.
+----------------------------------------------------
+
+<font color="#39FF14">> LOG_ENTRY: [READING SCI-FI (Asimov, Herbert)]</font>
+<font color="#39FF14">> CATEGORY:</font> System Architecture & Vision
+<font color="#39FF14">> SYSTEM_IMPLICATION:</font> Inspires the imagination to design future-proof,
+                      large-scale systems and explore the human impact
+                      of technology.
+  </pre>
+
 </details>
 
 ---
@@ -243,7 +297,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=C%3A%5C%3E+shutdown.exe+-r+-m+%22Ready+for+new+challenges%22;Saving+current+session...;Backing+up+innovative+business+solutions...;Syncing+AI%2FML+models...;Committing+latest+code+to+repository...;System+is+rebooting+with+enhanced+capabilities...;Thanks+for+exploring+UCAN-DOS+v2.0+terminal.;Ready+to+debug+business+processes+and+compile+solutions%3F;Contact+coordinates%3A+Izmir%2C+Turkey+%7C+%2B90+551+958+74+55;Press+any+key+to+initiate+collaboration+protocol..." alt="Terminal Shutdown Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=C%3A%5C%3E+shutdown.exe+-r+-m+%22Ready+for+new+challenges%22;Saving+current+session...;Backing+up+innovative+business+solutions...;Syncing+AI%2FML+models...;Committing+latest+code+to+repository...;System+is+rebooting+with+enhanced+capabilities...;Thanks+for+exploring+UCAN-DOS+v2.1+terminal.;Ready+to+debug+business+processes+and+compile+solutions%3F;Contact+coordinates%3A+Izmir%2C+Turkey+%7C+%2B90+551+958+74+55;Press+any+key+to+initiate+collaboration+protocol..." alt="Terminal Shutdown Animation" />
 </p>
 
 ---

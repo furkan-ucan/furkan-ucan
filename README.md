@@ -26,7 +26,13 @@
   <summary><font color="#39FF14">C:\></font> whoami.exe</summary>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E0E0E0&center=true&vCenter=true&width=700&lines=User%3A+Furkan+Ucan;Title%3A+Business+%26+Technology+Architect+%7C+MIS+Graduate;Location%3A+Izmir%2C+Turkey;Education%3A+Management+Information+Systems+(DEU)+%7C+GIS+(AU);Primary+Function%3A+Transforming+complex+business+processes;into+technology-driven+efficient+solutions;Philosophy%3A+A+line+of+code+is+not+just+a+command...;it's+a+solution+to+a+<a href='./README.philosophicus' target='_blank'>human+problem</a>.;My+OS+specializes+in+debugging+business+processes%2C;compiling+ideas+into+value%2C;and+executing+strategies+with+clean%2C+scalable+systems.;Languages%3A+Turkish+(Native)%2C+English+(B1)" alt="whoami Output Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=E0E0E0&center=true&vCenter=true&width=700&lines=User%3A+Furkan+Ucan;Title%3A+Business+%26+Technology+Architect+%7C+MIS+Graduate;Location%3A+Izmir%2C+Turkey;Education%3A+Management+Information+Systems+(DEU)+%7C+GIS+(AU);Primary+Function%3A+Transforming+complex+business+processes;into+technology-driven+efficient+solutions;Philosophy%3A+A+line+of+code+is+not+just+a+command...;it's+a+solution+to+a+human+problem.;My+OS+specializes+in+debugging+business+processes%2C;compiling+ideas+into+value%2C;and+executing+strategies+with+clean%2C+scalable+systems.;Languages%3A+Turkish+(Native)%2C+English+(B1)" alt="whoami Output Animation" />
+</p>
+
+<p align="center">
+  <a href="./README.philosophicus" target="_blank">
+    <font color="#39FF14">🔗 Click "human problem" above to access the Philosophicus Codex</font>
+  </a>
 </p>
 
 <pre>
@@ -56,7 +62,7 @@ reflecting a core philosophy:
 
 <font color="#39FF14">3. Hidden Protocols:</font> This system, like any complex architecture,
    may contain undocumented features for curious minds.
-   
+
 <font color="#E0E0E0">"The goal is not to list skills, but to demonstrate a mindset."</font>
   </pre>
 
